@@ -1,5 +1,5 @@
 
-# Testing mail service with Playwright slides using mdx and codesurfer for TestJS Summit
+# Exploring node modules for test automation slides using mdx and codesurfer for TestJS Summit
 
 ## mdx-deck Template
 
