@@ -1,6 +1,6 @@
 import { Page, Response } from "@playwright/test";
 
-export async function waitGivenForResponse(
+export async function waitForGivenResponse(
   page: Page,
   url: string,
   statusCode: number,
